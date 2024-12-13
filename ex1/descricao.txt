@@ -1,0 +1,2 @@
+Primeiro exercicio.
+  abrir o csv e analisar as colunas. Qual seria uma possivel classe?
