@@ -1,2 +1,6 @@
 Primeiro exercicio.
   abrir o csv e analisar as colunas. Qual seria uma possivel classe?
+
+Formar duplas.
+  mostrar um workflow no Knime, identificar qual coluna representa uma classe? Por que?
+A resposta deve ser colocada nesse repositorio do git.
