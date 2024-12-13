@@ -1,0 +1,4 @@
+Anaconda - (iremos utilizar uma ferramenta interna chamada Orange)
+https://www.anaconda.com/download/success
+KNIME 
+https://www.knime.com/downloads
